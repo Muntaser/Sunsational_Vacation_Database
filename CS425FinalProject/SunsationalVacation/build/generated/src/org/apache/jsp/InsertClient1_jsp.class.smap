@@ -1,0 +1,17 @@
+SMAP
+InsertClient1_jsp.java
+JSP
+*S JSP
+*F
++ 0 InsertClient1.jsp
+InsertClient1.jsp
+*L
+5,7:47
+11:53,2
+12:55
+14,30:57
+43,11:87
+54,21:99
+74,11:120
+84,3:131
+*E
